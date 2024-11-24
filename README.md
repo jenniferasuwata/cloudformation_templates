@@ -1,4 +1,5 @@
 Deploying Two EC2 Instances in a Custom VPC Using AWS CloudFormation
+
 Introduction
 This project contains an AWS CloudFormation template (Cloudformation.yaml) that automates the deployment of a custom Virtual Private Cloud (VPC) with public and private subnets and launches two EC2 instances within them. This setup demonstrates the use of infrastructure as code to provision AWS resources efficiently and reproducibly.
 
