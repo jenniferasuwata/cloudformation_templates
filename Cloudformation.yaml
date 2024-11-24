@@ -126,3 +126,6 @@ Resources:
       Tags:
         - Key: Name
           Value: PrivateEC2Instance
+
+  Custom VPC: Test
+  
